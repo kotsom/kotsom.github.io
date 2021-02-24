@@ -123,9 +123,9 @@ contact:
     
 footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://github.com/kotsom/kotsom.github.io
-        icon: "fab fa-github-cat
+    #social:
+      #- url: https://github.com/kotsom/kotsom.github.io
+       # icon: "fab fa-github-cat
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
