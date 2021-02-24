@@ -56,10 +56,17 @@ portfolio:
         #align: right
     #end: "Be Part <br> of Our <br> Story!"
 
+
+index:
+    title: "Index"
+    list:
+        -"first ting"
+       
+
 about:
     title: "About Us"
     text: "our story"
-    section: about
+    section: timeline
 
 #clients:
     #section: clients
