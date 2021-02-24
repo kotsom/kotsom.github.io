@@ -55,19 +55,12 @@ portfolio:
         #alt: 
         #align: right
     #end: "Be Part <br> of Our <br> Story!"
-
-
-index:
-    title: "Index"
-    list:
-        -"first ting"
-   section: timeline
        
 
 about:
     title: "About Us"
     text: "our story"
-    section: about
+    section: timeline
 
 #clients:
     #section: clients
