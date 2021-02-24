@@ -1,6 +1,6 @@
 nav:
   - title: "Services"
-    link: /services
+    section: /services
 
   - title: "Portfolio"
     section: portfolio
