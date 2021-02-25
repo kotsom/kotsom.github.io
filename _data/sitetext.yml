@@ -1,5 +1,5 @@
 header:
-    title: "email\n phone"
+    title: "Welcom to ManaKaiRV!"
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
@@ -9,15 +9,15 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Mobile Repair"
+        desc: "We are mobile. We're ready. We are close."
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Get a lot fixed"
+        desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)"
         icon: fas fa-tools       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-facebook
+      - title: "PLACEHOLDER"
+        desc: "Placeholder text goes here, blah blah blah"
+        icon: fas fa-bus
 
 portfolio:
     title: "Portfolio"
