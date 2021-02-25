@@ -24,6 +24,12 @@ author     : "@leha-code on github"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
+  
+phone-email-texta: |+
+        Phone: xxxxxxxx
+        
+        
+        Email: bob@example.org
 
 analytics:
   google: #Google Analytics tracking code here
