@@ -17,7 +17,12 @@ remote_theme: kotsom/agency-jekyll-theme #my fork of the theme.
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : ManaKaiRV
+title: |+ ManaKaiRV
+    
+    Email: email@example.com
+    
+    
+    Phone: xxx xxx xxx
 email      : info@manakairv.com #this is also the email contact forms will go to
 description: "Mobile RV maintenance and repair."
 author     : "@leha-code on github"
