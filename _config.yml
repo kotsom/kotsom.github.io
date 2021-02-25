@@ -17,7 +17,7 @@ remote_theme: kotsom/agency-jekyll-theme #my fork of the theme.
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title: "ManaKaiRV  Email: bob@example.com  Phone: xxxxxxxxx"
+title: "ManaKaiRV"
 email      : info@manakairv.com #this is also the email contact forms will go to
 description: "Mobile RV maintenance and repair."
 author     : "@leha-code on github"
@@ -28,11 +28,7 @@ author     : "@leha-code on github"
 keywords: [mana, mana kai, ManaKai, manakai, kai, rv, manakairv, rv dealer, rv maintenace, ManaKaiRV, ManaKaiRv]
 tags: [manakairv]
   
-phone-email-text: |+
-        Phone: xxxxxxxx
-        
-        
-        Email: bob@example.org
+site_title_display: "ManaKaiRV Email: bob@example.com Phone: +XXXXXXXXX"
 
 analytics:
   google: #Google Analytics tracking code here
