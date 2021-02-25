@@ -1,7 +1,7 @@
 header:
-    title: "Welcom to ManaKaiRV!"
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: "Welcome to ManaKaiRV!"
+    text: Mobile RV Maintenance & Repair
+    button: Yes I Want It!f
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -57,10 +57,10 @@ portfolio:
     #end: "Be Part <br> of Our <br> Story!"
        
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: timeline
+#about:
+    #title: "Test"
+    #text: "lipsum"
+    #section: timeline
 
 #clients:
     #section: clients
