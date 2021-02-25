@@ -1,7 +1,11 @@
 header:
     title: "Welcome to ManaKaiRV!"
     text: Mobile RV Maintenance & Repair
-    text: Testing
+    text: |+
+      This is a long string
+
+
+      with new lines
     button: Yes I Want It!
     buttonlink: "#contact" # "#{section}" or "URL/page link"
 
