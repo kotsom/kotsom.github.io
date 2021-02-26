@@ -16,7 +16,7 @@ services:
         desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)"
         icon: fas fa-tools       
       - title: "PLACEHOLDER"
-        desc: "Placeholder text goes here, blah blah blah"
+        desc: "Loren Ipsum placeholder"
         icon: fas fa-bus
 
 portfolio:
