@@ -1,3 +1,7 @@
+---------
+layout: page
+---------
+
 ## Our services:
 
 ### Fiberglass/rubber roof repair/replacement
