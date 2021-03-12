@@ -33,6 +33,8 @@ site_title_display: "ManaKaiRV Phone: +XXXXXXXXX"
 analytics:
   google: #Google Analytics tracking code here
 
+formspree_form_path: "f/mgepgyje"
+
 collections:
   portfolio:
 
