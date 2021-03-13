@@ -1,7 +1,7 @@
 header:
     title: Welcome to ManaKaiRV!
     text: Mobile RV Maintenance & Repair
-    button: Yes I Want It!
+    button: Skip To Contact
     buttonlink: "#contact" # "#{section}" or "URL/page link"
 
 services:
