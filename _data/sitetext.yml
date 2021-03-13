@@ -12,11 +12,11 @@ services:
       - title: "Mobile Repair"
         desc: "We are mobile. We're ready. We are close."
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
-      - title: "Get a lot fixed"
+      - title: "Lorem Ipsum"
         desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)"
         icon: fas fa-tools       
-      - title: "PLACEHOLDER"
-        desc: "Loren Ipsum placeholder"
+      - title: "No Standing In-Line"
+        desc: "Don't wait. Just get it!"
         icon: fas fa-bus
 
 portfolio:
