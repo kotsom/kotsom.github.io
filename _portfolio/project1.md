@@ -12,21 +12,15 @@ caption:
 
 Oil change
 
-
 Oil filter replacement
-
 
 Fuel filter replacement
 
-
 Oxygen filter replacement
-
 
 Cooling liquid change
 
-
 Oil and antifreeze analyze
-
 
 Test of engine/generator
 
