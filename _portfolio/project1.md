@@ -9,7 +9,7 @@ caption:
   subtitle: $300.00
   thumbnail: https://raw.githubusercontent.com/kotsom/kotsom.github.io/master/assets/img/portfolio/01-thumbnail.jpg
 ---
-##This package includes:
+## This package includes:
 Oil change
 
 Oil filter replacement
