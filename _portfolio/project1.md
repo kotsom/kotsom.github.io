@@ -10,19 +10,11 @@ caption:
   thumbnail: https://raw.githubusercontent.com/kotsom/kotsom.github.io/master/assets/img/portfolio/01-thumbnail.jpg
 ---
 
-Oil change
-
-Oil filter replacement
-
-Fuel filter replacement
-
-Oxygen filter replacement
-
-Cooling liquid change
-
-Oil and antifreeze analyze
-
-Test of engine/generator
-
-
+- [x] Oil change
+- [x] Oil filter replacement
+- [x] Fuel filter replacement
+- [x] Oxygen filter replacement
+- [x] Cooling liquid change
+- [x] Oil and antifreeze analyze
+- [x] Test of engine/generator
 <!-- I am so sorry I had to add this here. The extra spaces ARE annoying-->
