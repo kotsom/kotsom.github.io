@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: site.data.navigation.nav
+    text: 
     section: services
     list:
       - title: "Mobile Repair"
