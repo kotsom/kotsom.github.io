@@ -20,8 +20,8 @@ services:
         icon: fas fa-bus
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Package Of Services"
+    text: "Click on an image to see more"
     section: portfolio
     
 
