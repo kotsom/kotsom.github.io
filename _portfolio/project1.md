@@ -1,5 +1,5 @@
 ---
-title: Engine/Generator Maintenance
+title: Engine / Generator Maintenance
 subtitle: $300.00
 image:
 alt:
