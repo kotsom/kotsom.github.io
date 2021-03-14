@@ -13,7 +13,8 @@ services:
         desc: "We are mobile. We're ready. We are close."
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Lorem Ipsum"
-        desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)"
+        desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more!](/services)
+        You can see also our [Packages](#portfolio)"
         icon: fas fa-tools       
       - title: "No Standing In-Line"
         desc: "Don't wait. Just get it!"
