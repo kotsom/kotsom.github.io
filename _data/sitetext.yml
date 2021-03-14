@@ -1,6 +1,6 @@
 header:
     title: Welcome to ManaKaiRV!
-    text: Mobile RV Maintenance & Repair
+    text: Mobile RV Maintenance & Repair in Florida
     button: Skip To Contact
     buttonlink: "#contact" # "#{section}" or "URL/page link"
 
