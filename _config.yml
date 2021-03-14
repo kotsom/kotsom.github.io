@@ -31,7 +31,7 @@ tags: [manakairv]
 site_title_display: "ManaKaiRV Phone: +XXXXXXXXX"
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-C8KQB1NDSR" #Google Analytics tracking code here
 
 formspree_form_path: "f/mgepgyje"
 
