@@ -20,7 +20,7 @@ services:
         icon: fas fa-bus
 
 portfolio:
-    title: "Package Of Services"
+    title: "Packages Of Services"
     text: "Click on an image to see more"
     section: portfolio
     
