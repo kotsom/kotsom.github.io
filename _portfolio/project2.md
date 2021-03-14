@@ -1,11 +1,11 @@
 ---
 title: Diesel Heater / AquaHot 
-subtitle: $XXX.XX
+subtitle: $299.99
 
 
 caption:
   title: Diesel Heater/AquaHot
-  subtitle: $XXX.XX
+  subtitle: $299.99
   thumbnail: https://raw.githubusercontent.com/kotsom/kotsom.github.io/master/assets/img/portfolio/01-thumbnail.jpg
 ---
 
