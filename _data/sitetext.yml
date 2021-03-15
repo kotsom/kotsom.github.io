@@ -9,15 +9,15 @@ services:
     text: 
     section: services
     list:
-      - title: "Mobile Repair"
+      - title: "No Standing In-Line"
         desc: "We are mobile. We're ready. We are close."
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
-      - title: "Lorem Ipsum"
+      - title: "Yes, We Can!"
         desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more!](/services)
         You can see also our [Packages](#portfolio)"
         icon: fas fa-tools       
-      - title: "No Standing In-Line"
-        desc: "Don't wait. Just get it!"
+      - title: "Request a Service"
+        desc: "Call now us at +XXXXXXXX, [Send an email](mailto:info@manakairv.com) to info@manakairv.com, or go to the [Contact section.](#contact)"
         icon: fas fa-bus
 
 portfolio:
@@ -120,7 +120,7 @@ portfolio:
       #    
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Info@ManaKaiRV.com or +XXXXXXXXX"
     section: contact
     
 footer:
