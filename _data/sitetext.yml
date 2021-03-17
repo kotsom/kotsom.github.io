@@ -4,8 +4,6 @@ header:
     button: Skip To Contact
     buttonlink: "#contact" # "#{section}" or "URL/page link"
 
-
-
 services:
     title: "Services"
     text: 
