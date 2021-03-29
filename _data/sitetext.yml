@@ -18,7 +18,7 @@ services:
         You can see also our [Packages](#portfolio)"
         icon: fas fa-tools       
       - title: "Request a Service"
-        desc: "Call now us at (561) 475-8735, [Send an email](mailto:info@manakairv.com) to info@manakairv.com, or go to the [Contact section.](#contact)"
+        desc: "Call now us at {{ site.phone }}, [Send an email](mailto:info@manakairv.com) to info@manakairv.com, or go to the [Contact section.](#contact)"
         icon: fas fa-bus
 
 portfolio:
