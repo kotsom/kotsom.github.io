@@ -19,6 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title: "ManaKaiRV"
 email      : info@manakairv.com #this is also the email contact forms will go to
+phone: (561) 592-7475
 description: "Mobile RV maintenance and repair."
 author     : "@leha-code on github"
 # logo:     #optional, defaults to site title
@@ -28,7 +29,7 @@ author     : "@leha-code on github"
 keywords: [mana, mana kai, ManaKai, manakai, kai, rv, manakairv, rv dealer, rv maintenace, ManaKaiRV, ManaKaiRv]
 tags: [manakairv]
   
-site_title_display: "ManaKaiRV Phone: (561) 475-8735"
+site_title_display: "ManaKaiRV Phone: {{ site.phone }}"
 
 analytics:
   google: "G-C8KQB1NDSR" #Google Analytics tracking code here
