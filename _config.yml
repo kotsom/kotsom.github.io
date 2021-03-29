@@ -29,7 +29,7 @@ author     : "@leha-code on github"
 keywords: [mana, mana kai, ManaKai, manakai, kai, rv, manakairv, rv dealer, rv maintenace, ManaKaiRV, ManaKaiRv]
 tags: [manakairv]
   
-site_title_display: "ManaKaiRV Phone: {{ site.phone }}"
+site_title_display: "ManaKaiRV Phone: "
 
 analytics:
   google: "G-C8KQB1NDSR" #Google Analytics tracking code here
